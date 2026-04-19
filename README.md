@@ -8,7 +8,7 @@ Terdapat 3 file yang digunakan untuk membuat website landing page yaitu index.ht
 
 ## Screenshots
 
-![App Screenshot](/Landing%20Page/Screenshot.png)
+![App Screenshot](Screenshot.png)
 
 
 
